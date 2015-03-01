@@ -1,3 +1,9 @@
 [submodule "zprezto"]
 	path = zprezto
 	url = https://github.com/frenchie16/prezto.git
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim-bundle/vim-colors-solarized"]
+	path = vim-bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
