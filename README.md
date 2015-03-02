@@ -1,4 +1,3 @@
-$ cat README.md
 # dotfiles
 This repository contains my dotfiles. It is mostly for my own use so I can keep them synchronized across my machines and keep a history of changes, but if it's useful to you, great!
 
