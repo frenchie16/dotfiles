@@ -1,3 +1,6 @@
-eval $(/opt/homebrew/bin/brew shellenv)
+if [ -f /opt/homebrew ]; then
+	eval $(/opt/homebrew/bin/brew shellenv)
+fi
+
 export PATH="/Users/john/Library/Python/3.8/bin:${PATH}"
 
