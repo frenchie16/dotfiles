@@ -7,7 +7,7 @@ At least `zsh` and `vim` should be installed.
 ## Setting up
 
 	git clone --recursive https://github.com/frenchie16/dotfiles.git ~/.dotfiles
-	~/.dotfiles/mklinks.zsh
+	~/.dotfiles/setup.zsh
 
 ## Updating
 
