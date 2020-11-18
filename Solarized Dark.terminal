@@ -161,8 +161,8 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxARElVO
-	U1JHQlxOU0NvbG9yU3BhY2VWJGNsYXNzTxAnMC4yNzQ1MDk4MDM5IDAuMzU2ODYyNzQ1
-	MSAwLjM4NDMxMzcyNTUAEAGAAtIUFRYXWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xv
+	U1JHQlxOU0NvbG9yU3BhY2VWJGNsYXNzTxAnMC41MDU4ODIzNTI5IDAuNTY0NzA1ODgy
+	NCAwLjU2NDcwNTg4MjQAEAGAAtIUFRYXWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xv
 	cqIWGFhOU09iamVjdAgRGiQpMjdJTFFTV11kand+qKqssbzFzdAAAAAAAAABAQAAAAAA
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
@@ -219,7 +219,7 @@
 	<key>columnCount</key>
 	<integer>120</integer>
 	<key>name</key>
-	<string>Solarized Dark Yosemite</string>
+	<string>Solarized Dark</string>
 	<key>rowCount</key>
 	<integer>32</integer>
 	<key>type</key>
