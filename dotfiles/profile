@@ -3,8 +3,8 @@ if [ -d /opt/homebrew ]; then
 fi
 
 if [ -d ${HOME}/.profile.d ]; then
-	if [ "$(ls -A ${HOME}/.profile.d)" ]; then
-		for file in ${HOME}/.profile.d; do
+	if [ "$(ls -A ${HOME}/.profile.d/)" ]; then
+		for file in ${HOME}/.profile.d/*; do
 			source ${file}
 		done
 	fi
