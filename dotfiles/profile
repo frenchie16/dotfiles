@@ -1,7 +1,3 @@
-if [ -d /opt/homebrew ]; then
-	eval $(/opt/homebrew/bin/brew shellenv)
-fi
-
 if [ -d ${HOME}/.profile.d ]; then
 	if [ "$(ls -A ${HOME}/.profile.d/)" ]; then
 		for file in ${HOME}/.profile.d/*; do
@@ -9,6 +5,4 @@ if [ -d ${HOME}/.profile.d ]; then
 		done
 	fi
 fi
-
-export PATH="/Users/john/Library/Python/3.8/bin:${PATH}"
 
